@@ -1,1 +1,1 @@
-## 9FB1 Integración de Tecnologías de Cómputo
+# 9FB1 Integración de Tecnologías de Cómputo
