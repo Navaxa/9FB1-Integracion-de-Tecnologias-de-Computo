@@ -1,2 +1,2 @@
-## Presentación: [ir a la Presentación](https://view.genial.ly/5f8a525cf0cc5a0d2acaaea9/horizontal-infographic-lists-cuadro-comparativo-de-tendencias-de-ti) 
+## Presentación: [ir a la Presentación](https://view.genial.ly/5fbecb720cc3230d0dafa4f6/presentation-cuadro-comparativo) 
 ![alt text](presentacion.PNG)
